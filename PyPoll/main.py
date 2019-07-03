@@ -1,7 +1,7 @@
 import os
 import csv
 
-csvData = os.path.join('..', 'PyPoll', 'election_data (1).csv')
+csvData = os.path.join('..', 'PyPoll', 'election_data.csv')
 
 candidates = []
 voters = []
